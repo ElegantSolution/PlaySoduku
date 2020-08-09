@@ -13,4 +13,4 @@ Yue Zhao @ElegantSolution, eesoto@foxmail.com
 
 ## License
 
-ESPopupMenu is available under the MIT license. See the LICENSE file for more info.
+PlaySoduku is available under the MIT license. See the LICENSE file for more info.
