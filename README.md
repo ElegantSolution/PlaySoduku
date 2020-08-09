@@ -1,6 +1,4 @@
-# PlaySoduku
-
-##
+## PlaySoduku
 
  This C program generates a sudoku game:
  displays the solution game board on the console,
