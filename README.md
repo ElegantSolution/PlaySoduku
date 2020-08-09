@@ -6,3 +6,11 @@
  
  Compile with a command line tool and run!
  ("PlaySudoku.txt" in the same directory where you run the command line, NOT the output C file directory)
+
+## Author
+
+Yue Zhao @ElegantSolution, eesoto@foxmail.com
+
+## License
+
+ESPopupMenu is available under the MIT license. See the LICENSE file for more info.
